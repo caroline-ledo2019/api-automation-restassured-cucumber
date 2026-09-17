@@ -20,7 +20,7 @@ Certifique-se de ter o Java 21 e o Apache Maven configurados na sua máquina. Na
 ## Como Visualizar o Relatório Visual (HTML)
 Após a execução dos testes com sucesso ("BUILD SUCCESS"), um relatório interativo é gerado automaticamente no seu computador. Para visualizá-lo no seu navegador (Google Chrome, Edge, etc.), siga o passo a passo:
 
-1. No menu lateral esquerdo do **VS Code**, navegue até a pasta: "target" ➡️ "reports".
+1. No menu lateral esquerdo do **VS Code**, navegue até a pasta: "target">"reports".
 2. Clique com o **botão direito do mouse** em cima do arquivo "cucumber-report.html".
 3. No menu que se abrir, selecione a opção **Reveal in File Explorer** (Mostrar no Explorador de Arquivos do Windows).
 4. A pasta amarela do seu Windows será aberta destacando o arquivo. Dê **dois cliques** sobre o arquivo "cucumber-report.html".
